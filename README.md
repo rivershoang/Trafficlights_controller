@@ -1,4 +1,4 @@
-# Traffic Controller
+# Traffic Lights Controller
 This is my attempts at assignments (Laboratory 5) from HCMUT's Digital Design Laboratory course. 
 
 
