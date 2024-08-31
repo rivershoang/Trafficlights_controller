@@ -6,7 +6,4 @@ This project is made in Intel® Quartus II 13.0sp1, for DE2-115. However, to mod
 
 Here are the requirements. All credit goes to Department of Electronics, Ho Chi Minh city University of Technology.
 
-<iframe src="E:/TNKTS_tonghop_Ver2.pdf" width="600" height="500" allow="autoplay"></iframe>
-
-
-[Download PDF](E:/Lecture/Digital Designs/TNKTS_tonghop_Ver2.pdf)
+[TNKTS_tonghop_Ver2](E:/TNKTS_tonghop_Ver2.pdf)
