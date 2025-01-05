@@ -9,5 +9,11 @@ Here are the requirements. All credit goes to Department of Electronics, Ho Chi 
 [TNKTS_tonghop_Ver2.pdf](TNKTS_tonghop_Ver2.pdf)
 
 # Video demo 
+Manual mode 
 
+![Video manual](https://github.com/rivershoang/Trafficlights_controller/blob/main/manual/doc/4597190268222412982.mp4)
+
+Auto mode
+
+![Video auto](https://github.com/rivershoang/Trafficlights_controller/blob/main/auto_2mode/doc/3400309584523564994.mp4)
 
