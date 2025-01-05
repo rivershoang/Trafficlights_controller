@@ -1,0 +1,7 @@
+
+State Machine - |wrapper|tong_hop:tong_hop_dut|fsm:fsm_dut|pre_state
+Name pre_state.S3 pre_state.S2 pre_state.S1 pre_state.S0 
+pre_state.S0 0 0 0 0 
+pre_state.S1 0 0 1 1 
+pre_state.S2 0 1 0 1 
+pre_state.S3 1 0 0 1 

@@ -8,3 +8,6 @@ Here are the requirements. All credit goes to Department of Electronics, Ho Chi 
 
 [TNKTS_tonghop_Ver2.pdf](\C:\TNKTS_tonghop_Ver2.pdf)
 
+# Video demo 
+
+

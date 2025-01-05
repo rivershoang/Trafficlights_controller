@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : -3.565
+TNS   : -85.163
+
+Type  : Slow Model Setup 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : -0.507
+TNS   : -3.389
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : -1.898
+TNS   : -17.544
+
+Type  : Slow Model Hold 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : -1.380
+TNS   : -27.380
+
+Type  : Slow Model Minimum Pulse Width 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : -1.098
+TNS   : -25.064
+
+Type  : Fast Model Setup 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -1.119
+TNS   : -13.703
+
+Type  : Fast Model Hold 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : -1.380
+TNS   : -27.380
+
+Type  : Fast Model Minimum Pulse Width 'tong_hop:tong_hop_dut|secgen:secgen_dut|temp[0]'
+Slack : -0.500
+TNS   : -8.000
+
+------------------------------------------------------------
